@@ -1,4 +1,0 @@
-dependencies:
-- name: mysql
-  version: 3.2.1
-  condition: true
