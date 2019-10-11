@@ -15,9 +15,9 @@ fullnameOverride: ""
 
 service:
   type: LoadBalancer
-  port: 8099
+  port: 8079
   targetPort: 3000
-  nodePort: 32656
+  nodePort: 32659
 
 ingress:
   enabled: false
