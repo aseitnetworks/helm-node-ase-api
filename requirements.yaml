@@ -1,4 +1,0 @@
-dependencies:
-  - name: helm-mysql-ase
-    version: 0.1.0
-    repository: https://github.com/munishase/helm-mysql-ase.git
